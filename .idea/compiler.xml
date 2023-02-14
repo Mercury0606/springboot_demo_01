@@ -10,5 +10,8 @@
         <module name="DSA" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="IdeaProjects" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
